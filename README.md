@@ -74,7 +74,6 @@ have is:
 
 `array` if you want to authenticate a user and access its data:
 
-<<<<<<< HEAD
 ```php
 new Instagram(array(
       'client_id'  => 'YOUR_CLIENT_ID',
@@ -82,23 +81,6 @@ new Instagram(array(
       'redirect_url' => 'YOUR_REDIRECT_URL',
 ));
 ```
-=======
-<<<<<<< HEAD
-```php
-new Instagram(array(
-      'client_id'  => 'YOUR_CLIENT_ID',
-      'client_secret' => 'YOUR_CLIENT_SECRET',
-      'redirect_url' => 'YOUR_REDIRECT_URL',
-));
-```
-=======
-    new Instagram(array(
-      'client_id'  => 'YOUR_CLIENT_ID',
-      'client_secret' => 'YOUR_CLIENT_SECRET',
-      'redirect_url' => 'YOUR_REDIRECT_URL',
-    ));
->>>>>>> parent of 1b2c33c... Update
->>>>>>> Uncommit
 
 `string` if you *only* want to access public data:
 
