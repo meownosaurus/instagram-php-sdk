@@ -317,3 +317,7 @@ Samples for redirect URLs
 </table>
 
 > If you need additional informations, take a look at [Instagrams API docs](http://instagram.com/developer/authentication/).
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/meownosaurus/instagram-php-sdk/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
